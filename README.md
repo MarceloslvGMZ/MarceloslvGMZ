@@ -2,12 +2,12 @@
 
 🎓 Estudante de Sistemas de Informação  
 💻 Desenvolvedor de Software Júnior  
-🚀 Foco em desenvolvimento web e sistemas de gestão
+🚀 Foco em desenvolvimento backend
 
 ## Projetos em Destaque
 
 ### ProjetoClinica
-Sistema de gerenciamento para clínicas utilizando Node.js, com foco em organização de pacientes, agendamentos e controle administrativo.
+API de gerenciamento para clínicas utilizando Node.js, com foco em organização de pacientes, agendamentos e controle administrativo.
 
 🔗 **Repositório:**  
 👉 https://github.com/MarceloslvGMZ/ProjetoClinica
