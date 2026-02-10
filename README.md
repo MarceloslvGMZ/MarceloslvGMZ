@@ -20,12 +20,14 @@ Aplicação voltada para clínicas de estética utilizando Java, oferecendo uma 
 🔗 **Repositório:**  
 👉 https://github.com/MarceloslvGMZ/Beauty_Clinic
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloslvGMZ&layout=compact&theme=github_dark)
 
+---
 
 ## 📂 Mais Projetos
 
-👉 [Ver todos os meus repositórios](https://github.com/SEU_USUARIO?tab=repositories)
+👉 [Ver todos os meus repositórios](https://github.com/MarceloslvGMZ?tab=repositories)
 
 
