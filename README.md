@@ -22,7 +22,7 @@ Aplicação voltada para clínicas de estética utilizando Java, oferecendo uma 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloslvGMZ&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloslvGMZ&layout=compact&theme=github_dark)
 
 ---
 
