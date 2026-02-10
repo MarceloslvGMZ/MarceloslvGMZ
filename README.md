@@ -22,7 +22,7 @@ Aplicação voltada para clínicas de estética utilizando Java, oferecendo uma 
 
 ---
 
-![Metrics](https://metrics.lecoq.io/SEU_USUARIO?template=classic&languages=1&languages.limit=8)
+![Metrics](https://metrics.lecoq.io/MarceloslvGMZ?template=classic&languages=1&languages.limit=8)
 
 ---
 
