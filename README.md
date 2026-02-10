@@ -22,11 +22,6 @@ Aplicação voltada para clínicas de estética utilizando Java, oferecendo uma 
 
 ---
 
-## 🛠️ Linguagens Mais Utilizadas
-
-![Metrics](https://metrics.lecoq.io/MarceloslvGMZ?template=classic&languages=1&languages.limit=8)
-
----
 
 ## 📂 Mais Projetos
 
