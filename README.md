@@ -22,7 +22,10 @@ Aplicação voltada para clínicas de estética utilizando Java, oferecendo uma 
 
 ---
 
-![Metrics](https://metrics.lecoq.io/MarceloslvGMZ?template=classic&languages=1&languages.limit=8)
+## 🛠️ Linguagens Mais Utilizadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MarceloslvGMZ&layout=compact&theme=github_dark)
+
 
 ---
 
