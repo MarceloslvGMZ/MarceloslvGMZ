@@ -6,14 +6,6 @@
 
 ## Projetos em Destaque
 
-### ProjetoClinica
-API de gerenciamento para clínicas utilizando Node.js, com foco em organização de pacientes, agendamentos e controle administrativo.
-
-🔗 **Repositório:**  
-👉 https://github.com/MarceloslvGMZ/ProjetoClinica
-
----
-
 ### Beauty Clinic
 Aplicação voltada para clínicas de estética utilizando Java, oferecendo uma solução prática para gestão de serviços, clientes e atendimentos.
 
