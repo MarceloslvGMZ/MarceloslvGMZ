@@ -7,7 +7,7 @@
 ## Projetos em Destaque
 
 ### Beauty Clinic
-Aplicação voltada para clínicas de estética utilizando Java, oferecendo uma solução prática para gestão de serviços, clientes e atendimentos.
+API voltada para clínicas de estética utilizando Java, oferecendo uma solução prática para gestão de serviços, clientes e atendimentos.
 
 🔗 **Repositório:**  
 👉 https://github.com/MarceloslvGMZ/Beauty_Clinic
